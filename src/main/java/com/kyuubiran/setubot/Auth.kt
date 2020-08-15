@@ -2,7 +2,7 @@ package com.kyuubiran.setubot
 
 object Auth {
     fun checkIsQQ(qq: Long): Boolean {
-        return qq in 10001..1999999999
+        return qq in 10000..9999999999
     }
 
     fun checkAuthLevel(qq: Long): Int {
