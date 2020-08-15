@@ -8,7 +8,7 @@
 
 打开cmd/power shell/终端 运行java -jar setubot-<版本号>-all.jar
 
-首次运行会生成config文件 请在里面填写相关配置(loginQQ登录账号 loginPsw登录密码 admin管理员权限 master主人权限)
+首次运行会生成config文件 请在里面填写相关配置(loginQQ登录账号 loginPsw登录密码 master主人权限 其他配置请不要手动更改 请用机器人的进行更改 避免发生奇怪的bug)
 
 apikey请前往api.lolicon.app申请
 
